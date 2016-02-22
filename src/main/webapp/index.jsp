@@ -62,7 +62,7 @@
                                         <img class="media-object" src="http://placehold.it/50x50" alt="">
                                     </span>
                                     <div class="media-body">
-                                        <h5 class="media-heading"><strong>John Smith</strong>
+                                        <h5 class="media-heading"><strong>Paulo Henrique</strong>
                                         </h5>
                                         <p class="small text-muted"><i class="fa fa-clock-o"></i> Yesterday at 4:32 PM</p>
                                         <p>Lorem ipsum dolor sit amet, consectetur...</p>
@@ -83,12 +83,12 @@
                         </li>
                         
                         <li>
-                            <a href="#"> <span class="label label-success">Alert Badge</span></a>
+                            <a href="#"> <span class="label label-success">Nova consulta oriunda do site</span></a>
                         </li>
 
                         <li class="divider"></li>
                         <li>
-                            <a href="#">View All</a>
+                            <a href="#">Ver todas</a>
                         </li>
                     </ul>
                 </li>
@@ -162,7 +162,7 @@
                                     </div>
                                 </div>
                             </div>
-                            <a href="#">
+                            <a href="consultar.jsp">
                                 <div class="panel-footer">
                                     <span class="pull-left">Listar Consultas</span>
                                     <span class="pull-right"><i class="fa fa-arrow-circle-right"></i></span>
