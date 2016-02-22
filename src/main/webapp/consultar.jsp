@@ -1,4 +1,6 @@
 <!DOCTYPE html>
+<%@page import="bancodados.cadastroaluno.Aluno"%>
+<%@page import="java.util.List"%>
 <html lang="en">
 
 <head>

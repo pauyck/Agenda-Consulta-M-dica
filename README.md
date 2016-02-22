@@ -1,10 +1,10 @@
-# Agenda Consulta MÈdica
+# Agenda Consulta M√©dica
 
-## Projeto final de ProgramaÁ„o Web
+## Projeto final de Programa√ß√£o Web
 
-Sistema de cadastro de consultas mÈdidas, com inclus„o, exclus„o e alteraÁ„o em um banco de dados.
+Sistema de cadastro de consultas m√©didas, com inclus√£o, exclus√£o e altera√ß√£o em um banco de dados.
 
-* Segunda parte do Trabalho da disciplina de ProgramaÁ„o Web - INF/UFG - Professor: Walison Moreira.
+* Segunda parte do Trabalho da disciplina de Programa√ß√£o Web - INF/UFG - Professor: Walison Moreira.
 
 
 
